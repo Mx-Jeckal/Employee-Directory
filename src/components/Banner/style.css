@@ -1,0 +1,8 @@
+#bannerimage {
+    width: 100%;
+    background-image: url(https://directorsforum.com/wp-content/uploads/revslider/home1/slider-home-bg-1.jpg);
+    height: 405px;
+    background-repeat: no-repeat;
+    background-color: purple;
+    background-position: center;
+  }
