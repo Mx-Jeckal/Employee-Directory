@@ -3,6 +3,7 @@ import React from "react";
 
 
 const Tbody = (props) => {
+    console.log(props.picture)
   return ( 
       <tbody>
           <tr>

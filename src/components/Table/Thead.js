@@ -8,7 +8,7 @@ const Thead = () => {
               <th>Name</th>
               <th>Phone</th>
               <th>Email</th>
-              <th>DOB</th>
+              <th>Age</th>
           </tr>
       </thead>
   )

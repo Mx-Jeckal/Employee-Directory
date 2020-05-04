@@ -35,7 +35,7 @@ class MyTable extends Component {
             {this.state.displayEmp.map(emp => (
             <Tbody
               key={emp._id}
-              image={emp.picture}
+              picture={emp.picture}
               name={emp.name}
               phone={emp.phone}
               email={emp.email}
